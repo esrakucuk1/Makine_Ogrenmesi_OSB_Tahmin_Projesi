@@ -1,0 +1,2 @@
+# Makine_Ogrenmesi_OSB_Tahmin_Projesi
+Makine_Öğrenmesi_OSB_Tahmin_Projesi
